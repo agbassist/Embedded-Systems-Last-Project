@@ -3,6 +3,7 @@
  *
  *  Created on: Apr 21, 2015
  *      Author: Brad Torrence
+ *  Modified by: Alex Griffin
  */
 
 /*****************************************************************************
