@@ -2,7 +2,7 @@
  * potentiometer.c
  *
  *  Created on: Feb 24, 2016
- *      Author: agriffin
+ *      Author: Alex Griffin
  */
 
 #include "potentiometer.h"
