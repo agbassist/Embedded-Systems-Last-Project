@@ -1,12 +1,7 @@
 /********************************************************************************************
  *
- * 		Author: 		Brad Torrence
- *		Purpose:		Example program that demonstrates:
- *							(1) setting up the system clock and the FreeRTOS system
- * 							(2) initializing peripherals (LED and OLED display)
- *							(3) toggling an LED by reading/writing from/to GPIO pins
- *							(4) creating and displaying a simple image on the OLED
- *							(5) formatting and displaying a string on the OLED
+ * 		Author: 		Alex Griffin
+ *		Purpose:		Samples values from an infrared distance sensor, and graphs these samples to the OLED.
  *
  ********************************************************************************************/
 
