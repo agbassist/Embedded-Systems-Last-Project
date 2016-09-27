@@ -2,7 +2,7 @@
  * potentiometer.h
  *
  *  Created on: Feb 24, 2016
- *      Author: agriffin
+ *      Author: Alex Griffin
  */
 
 #include "system.h"
