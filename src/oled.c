@@ -2,9 +2,8 @@
  * oled.c
  *
  *  Created on: Aug 28, 2015
- *      Author: Brad Torrence
- *
- *  Modified by: Alex Griffin
+ *      Author: Alex Griffin
+ * 
  */
 
 // Header File
